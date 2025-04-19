@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PersonnelSalaryCalculationandTracking-C
 # Personel Maaş Hesaplama ve Takibi Uygulaması
 
@@ -51,3 +52,6 @@ Eklenen tüm personellerin listelendiği ekran.
 5. Uygulamayı çalıştırarak personel işlemlerini gerçekleştirin.
 
 BU PROJE İÇİN EKLEMELER VE DÜZELTMELER GELECEKTİR
+=======
+# PersonnelSalaryCalculationandTrackingC#
+>>>>>>> d5fae0709ea3b255d64fc75ef676728cdb4fcc70
