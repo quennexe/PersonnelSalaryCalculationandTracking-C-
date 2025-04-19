@@ -1,0 +1,17 @@
+[{
+        "AdSoyad": "Ahmet Yılmaz",
+        "Departman": "IT",
+        "GunlukUcret": 250,
+        "GunSayisi": 22,
+        "Prim": 500,
+        "KayitTarihi": "2025-04-20T00:00:00"
+    },
+    {
+        "AdSoyad": "Ayşe Kaya",
+        "Departman": "HR",
+        "GunlukUcret": 200,
+        "GunSayisi": 20,
+        "Prim": 300,
+        "KayitTarihi": "2025-04-19T00:00:00"
+    }
+]

@@ -1,0 +1,18 @@
+CREATE TABLE Personel (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    Ad TEXT,
+    Soyad TEXT,
+    TC TEXT,
+    Gorev TEXT,
+    GirisTarihi TEXT
+);
+
+CREATE TABLE Maas (
+    Id INTEGER PRIMARY KEY AUTOINCREMENT,
+    PersonelId INTEGER,
+    Maas REAL,
+    MesaiSaat INTEGER,
+    Prim REAL,
+    Kesinti REAL,
+    NetMaas REAL
+);
